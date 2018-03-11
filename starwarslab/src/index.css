@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+    color: yellow;
+    text-align: center;
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("http://www.tailslate.net/wp-content/uploads/2017/01/Star-Wars-1200x675.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+
+    color: yellow;
+
+}
+
+.outer{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png");
+    background-size: contain;
+
+}
+
+.centre{
+
+
+}
+
+
+
+
